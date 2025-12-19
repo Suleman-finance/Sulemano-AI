@@ -1,2 +1,0 @@
-# Sulemano-AI
-README
